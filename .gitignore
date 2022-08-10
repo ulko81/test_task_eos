@@ -1,0 +1,10 @@
+.vscode
+.idea
+.pytest_cache/
+**/__pycache__/
+/.cache/
+pytest.xml
+/build/
+venv/
+pip-selfcheck.json
+debug.log
